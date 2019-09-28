@@ -23,6 +23,4 @@ function App() {
 }
 export default App;
 
-
-
-	• Any item we added {props.children} to the render body, can accept elements in between its open and closing tag
+// Any item we added {props.children} to the render body, can accept elements in between its open and closing tag
