@@ -1,5 +1,5 @@
 Work in progress. 
-This tutorial is part of this tutorial series: https://github.com/andrewdownie/1-react-material-ui
+This tutorial is part of this tutorial series: https://github.com/andrewdownie/react-frontend-series
 
 npm start to run this repo
 
